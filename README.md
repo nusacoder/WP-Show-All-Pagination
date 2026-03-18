@@ -1,2 +1,4 @@
 # WP-Show-All-Pagination
-Pagination per 400 kata. Nama fungsi show_all_pagination dengan layout baris baru, seperti media nasional gitu loh..
+Pagination per 400 kataseperti media nasional gitu loh..
+Halaman :
+1 2 3 4        Lihat Semua
